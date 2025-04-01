@@ -1,7 +1,7 @@
 # 🏆 Best Model: Random Forest Regressor
 ## After evaluating multiple algorithms, Random Forest Regressor demonstrated superior performance with the following results:
 
-![Screenshot 2025-04-01 191214]
+![Screenshot 2025-04-01 191214](images/your-image.png)
 
 # Key Advantages:
   ### - Enhanced Precision: 13.2% lower MSE than single Decision Trees
